@@ -17,3 +17,7 @@
     <img src="https://skillicons.dev/icons?i=javascript,nodejs,express,mongodb,firebase,java,mysql" /><br>
     <img src="https://skillicons.dev/icons?i=git,github,bitbucket,gitlab,vscode,linux" /><br>
 </div>
+
+
+<h2 align="center">📈 my github stats</h2>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kymesa&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
